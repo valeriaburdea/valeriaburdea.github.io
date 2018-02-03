@@ -1,4 +1,4 @@
 name: Valeria Burdea
 markdown: kramdown
 
-remote_theme:"mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
